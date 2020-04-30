@@ -1,28 +1,36 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <nav-bar></nav-bar>
+      <transition name="fade" mode="out-in">
+        <router-view :key="$route.fullPath"></router-view>
+      </transition>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import NavBar from './components/NavBar.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    NavBar
+  },
+  mounted() {
+    console.log(this.$route.name)
+    var example = document.getElementById("body");
+    example.style.backgroundImage = URL('./assets/pictures/mountain1.jpg');
+    example.style.backgroundColor = "#FFFFFF";
+
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+
+html, body {
+  background-image: url('./assets/pictures/mountain1.jpg');
+  /* filter: brightness(60%);   
+  -webkit-filter: brightness(60%); */
 }
+
 </style>

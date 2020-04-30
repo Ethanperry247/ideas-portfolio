@@ -1,0 +1,494 @@
+{
+    "data": [
+        {
+            "title": "REVISION", 
+            "subtitle": "Autobiography of Place",
+            "body": "My revision of my Autobiography of Place was enlightening to me. I believe IDEAS has taught me to be a better and perhaps a more expressive writer throughout the year long journey. On my sweep through, I made syntactic and grammatical changes which I believe made the paper flow better. I also looked at specific word choice, identifying places where I could make my writing more interesting and expressive. I believed these things brought my story to life in a way different from the original without having to change the story itself. Having the second part of the assignment be in the perspective of my dad was difficult for me, for though I had heard the story what seemed to be a million times, I could never fully understand the position he was in. According, I thought to myself: why not just ask him to read over it and find out? He gave me some pointers which brought a new level of authenticity to my story. You can see my original, my copy with revisions, and my final copy at the links below!",
+            "url": [
+                "hand.jpg"
+            ],
+            "caption": "My Favorite Drawing from Module 1",
+            "modalTitle": "Autobiography of Place",
+            "modalBody": "My ABoP was my first big piece written in IDEAS. It was a favorite project of mine, as it brings me back to the past every time I read it. You will see several other paper revisions like this one throughout the tour.",
+            "hasModal": true,
+            "links": [
+                {
+                    "name": "Original",
+                    "url": "https://docs.google.com/document/d/1yW1WrGO_MJfOKUZl3pkjmGa70k3YiVMI4fvbZg3QYPs/edit?usp=sharing"
+                }, 
+                {
+                    "name": "With Revisions",
+                    "url": "https://docs.google.com/document/d/1glrKt3if94O-pSlYMz2AH4XHSXONVafLIT_2_JvdELY/edit?usp=sharing"
+                }, 
+                {
+                    "name": "Final",
+                    "url": "https://docs.google.com/document/d/19Z7vsULlJYxScvGDwQkeRA9F9KBbEoZiLdcOdbQT2oI/edit?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        }, 
+        {
+            "title": "PROJECT", 
+            "subtitle": "Algorithmic Artwork",
+            "body": "At the conclusion of the first module, I wanted to create some supplementary art for my IJ that was based on my interests in computer science. After deliberation throughout the module, I decided to create some abstract art based on digital images put through a graphic algorithm. This algorithm took random points on the image and painted ovals with the corresponding color overtop of them, creating an interesting and beautiful effect, especially when running rich and colorful images through the algorithm. You can enjoy these algorithmic images in the slideshow presentation that I created for the end of module one.",
+            "url": [
+                "cherry2.png",
+                "man2.png"
+            ],
+            "caption": "Algorithmic Image Examples",
+            "modalTitle": "Projects",
+            "modalBody": "During our tour, you will see a number of projects I've worked on throughout the year. Many of these are from IDEAS, though some are from other classes as well. However, all projects took motivation from the design principles I learned in IDEAS.",
+            "hasModal": true,
+            "links": [
+                {
+                    "name": "Portfolio",
+                    "url": "https://docs.google.com/presentation/d/1nCBR6AffxRpPRx7xiQzT_4TTVoyc0o9kISWMFixgLgU/edit?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        }, 
+        {
+            "title": "REVISION", 
+            "subtitle": "Module 2 Research Paper",
+            "body": "My M2 paper revision was very important to me, as this paper was probably my favorite assignment in IDEAS thus far. Instead of doing one big revision on the paper, I went through with a different approach of doing many smaller sweeps to bring out the most of this paper. During these sweeps, I made many small fixes which helped the paper sound more professional. After the initial sweeps, I went through to make some more major corrections. Some of these were related to my misunderstanding at the time, where others were things like making figures more effective. Finally, I felt as though the paper was still lacking something. The beginning of the paper seemed complicated and frankly, a little boring, so I decided to rewrite it in a still accurate and engaging but more dramatic way. I was happy with what the paper turned out to be last semester, and I am even more pleased with the paper now.",
+            "url": [
+                "m22.jpg",
+                "m2.jpg"
+            ],
+            "caption": "Creations from Module 2",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Original",
+                    "url": "https://docs.google.com/document/d/1jg2BQ2L5IyxRM_r7ae4qiVZqNTxl1tKHyaleiL64VIY/edit?usp=sharing"
+                }, 
+                {
+                    "name": "With Revisions",
+                    "url": "https://docs.google.com/document/d/1PBwbXgdPo7iSbpFaa0l7RygCmaHGMvKWsR2Ii__oVjU/edit?usp=sharing"
+                }, 
+                {
+                    "name": "Final",
+                    "url": "https://docs.google.com/document/d/1rcXeebOmSrDctRbrIyg50-J6V-n36BfqM6Akj2GqqFg/edit?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "", 
+            "body": "",
+            "url": "",
+            "modalTitle": "Quotes",
+            "modalBody": "In this tour, you will find some quotes which have been meaningful to me throughout this course and life in general. They are by people I respect, and to a great degree, they are representitive of my beliefs.",
+            "hasModal": true,
+            "showLinks": false,
+            "links": [],
+            "isQuote": true,
+            "quoteBody": "Be the change you wish to see in the world.",
+            "quoteAuthor": "Ghandi"
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "Module 3 Animation",
+            "body": "My conclusion to module three was an expression of the design process I had learned throughout the year. It was representative of my growth and development as both an artist, designer, and scientist. Through this concluding assignment, I explored my design process, thought critically on how it could be expressed, and leveraged new skills that I had learned throughout the year to render a beautiful final product. You may see my constructive process and the final product using the links below.",
+            "url": [
+                "anim1.png",
+                "anim2.png"
+            ],
+            "caption": "Images From my Animation",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Constructive Process",
+                    "url": "https://docs.google.com/document/d/1TX232Qgp0O081ji6s6jFwdyu0LSDZKzz7NWtrKlCdPo/edit?usp=sharing"
+                },
+                {
+                    "name": "Animation",
+                    "url": "https://www.youtube.com/watch?v=mBvRUKb1TpU&feature=youtu.be"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "RESEARCH", 
+            "subtitle": "Multicast Routing - My First College Research Experience",
+            "body": "Early in the fall semester, I reached out to the undergraduate research department and expressed my interest in getting involved. I had submitted an application to the FIRST research program, but unfortunately never got a response on it. Instead, I decided to contact the coordinator and talk with her about both my experience in the past and what I was looking for in the future. She told me that, after looking over my application, she thought my experience wasn’t well suited for the FIRST program, as I had learned many of the skills through a series of classes I took in high school. However (and very generously of her), she gave me an opportunity to be a part of the Mines Undergraduate Research Fellowship (MURF). The final application material was due the next day, so I quickly reached out and found a connection with Dr. Qi Han of the computer science department. I couldn’t be more glad, and I began doing research with her shortly after. My research, which focused on a subset of wireless communication algorithms called multicast routing algorithms, became a fantastic learning experience for me. I made great connections with my research partners, and (just about) solidified my aspirations to become a researcher and possibly a professor in the future. Dr. Han has been an astonishing research mentor and guide for my future career, and I hope to continue with her in the future. You can read about my ongoing research in the upcoming release of the undergraduate research journal, Reuleaux, at the link below.",
+            "url": [
+                "firenode2.jpg",
+                "roomba.jpg"
+            ],
+            "caption": "Testing our Algorithm Required Many Roombas",
+            "modalTitle": "Research",
+            "modalBody": "I had my first experiences with college-level research this year. They have made a big impact on my future aspirations.",
+            "hasModal": true,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Reuleaux",
+                    "url": "https://drive.google.com/file/d/1Q8BSvqH4tXcV1S86eS11rEVFd_ic_l6M/view"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "", 
+            "body": "",
+            "url": "",
+            "modalTitle": "Experimental Learning",
+            "modalBody": "Ideas has been a class based on experimental learning and thinking beyond the traditional classroom. I have found this style of teaching works very well for me. Though not all my teachers do this, I have found ways to integrate it into my studying and independent projects.",
+            "hasModal": true,
+            "showLinks": false,
+            "links": [],
+            "isQuote": true,
+            "quoteBody": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+            "quoteAuthor": "Benjamin Franklin"
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "Firenode - A Smart Fire Detection System",
+            "body": "At the conclusion of my intro computer science class last semester, all students had the opportunity to develop a “create” project, which was an open ended Python project with minimal requirements. I wanted to develop a useful and practical project, so I decided to go with a theme of using computer hardware and python software to improve fire detector systems. I ended up integrating wireless radio networks with fire detecting sensors, and my project was chosen for display at the CS@Mines Innovation Fair and the CS@Mines Industry Partner event. I displayed my project to judges and industry professionals, gaining some useful feedback on what my system could look like in the future and what it was lacking now. I compiled these ideas and have been continuing to work on the system as a part of an independent study project this semester. You can see my poster presentation which was displayed at the CS@Mines events at the link below.",
+            "url": [
+                "firenode1.jpg"
+            ],
+            "caption": "A Custom Fire Detector Setup",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Project Poster",
+                    "url": "https://drive.google.com/file/d/1ddzqHDhFw-1WigEGLnADEE4GikFjQ5Fb/view?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "Portfolio Website",
+            "body": "Early in the spring semester, I was on the search for new opportunities to pursue during the summer and throughout the future, and I was struck by the idea of creating a portfolio website. I had been designing websites throughout the last semester for school, independent study, and work projects; accordingly, I thought that I may finally have the toolkit necessary to build my own site. So I decided to make it a challenge for myself--when I had the free time, I would hop on to my development environment, learn a new skill, apply that learned skill, and create a new feature on my website. I focused on reusability of my code, and tried to make it as aesthetically pleasing as I could. For the skills I was working with, I was pleased with the result, and I tried to follow as many professional standards as I could (though it is not perfect by any means). Nonetheless, it helped get me noticed by several employers, and indirectly helped lead to a new opportunity for me over the summer. I would like to iterate on this design once I have learned more, and the creation of the site (among other projects) interested me enough that I am registered for a web programming course next semester to continue developing my skills. This project really pushed me, as I was trying to use a relatively new web framework to build the site. In many ways, it gave me the courage to build this website. But I’ll save that for later in the tour…",
+            "url": [
+                "website.png",
+                "website2.png"
+            ],
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Portfolio Website",
+                    "url": "https://ethanperry247.github.io/#/"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "", 
+            "body": "",
+            "url": "",
+            "modalTitle": "Thinking About the Edge Cases",
+            "modalBody": "Another thing that IDEAS has taught me was the importance of thinking about tethers. When implementing a solution, one may inadvertently affect a group or system they don't expect to. It is important to consider and stand up for everyone affected by your design.",
+            "hasModal": true,
+            "showLinks": false,
+            "links": [],
+            "isQuote": true,
+            "quoteBody": "The least I can do is speak out for those who cannot speak for themselves.",
+            "quoteAuthor": "Jane Goodall"
+        },
+        {
+            "title": "REVISION", 
+            "subtitle": "Module 4 Final Report",
+            "body": "My final revision was my team’s design concept section of the M4 report, which turned out to be a little disjoint and confusing due to its technical nature. I knew this one needed quite a bit of work, so similarly to the M2 paper, I did several small sweeps to correct surface level errors, then moved on to bigger content changes which brought the paper out of its confused state. Considering that this idea is so tough to communicate, I can understand why it came across as confusing from the beginning--sometimes the reader doesn’t have the same context that the writer may have in their head while writing. This led to some gaps in knowledge and accordingly didn’t get our full idea across. After an attempt to fill those gaps, I believe it flows better and makes more sense in its revised state.",
+            "url": [
+                "brain.png",
+                "VR1.png"
+            ],
+            "caption": "Developing a VR Application for Module 4",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Original",
+                    "url": "https://docs.google.com/document/d/1uMe6S1O46Kmo-Ie_AVN4Geq1cPMdG28eFfimZhMN2nA/edit?usp=sharing"
+                }, 
+                {
+                    "name": "With Revisions",
+                    "url": "https://docs.google.com/document/d/1z1NzIw6j8Y3_t_KBXD-KpQYijv0DVyS9kFKuNaQK1So/edit?usp=sharing"
+                }, 
+                {
+                    "name": "Final",
+                    "url": "https://docs.google.com/document/d/1Wu5rTK2pce3upxR03HmREALA0K9AeCXidXe6jV1FU2I/edit?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "Mines Interactive Campus Map",
+            "body": "The next time you have the chance, go visit the student center, and look around the main floor near the front desk. You will see a large, interactive monitor installed against the wall. It features an interactive map and several other apps which show off on-campus clubs. Alex Pollock, a senior in the computer science department, and I built and designed the software for this interactive display all of fall semester. It was a part of an independent study project which I joined with Alex early in the semester--mostly by happenstance--but it ended up being a wonderful experience for me. I learned an incredibly large amount about web applications and also about software engineering in general. It also made me a better scientist, engineer, and creative thinker. I hope that the interactive campus map proves useful to our students and community members on campus and that the other applications attract lots of students to join more on-campus clubs. Be on the lookout for another display being installed in the front of Brown Building this fall.",
+            "url": [
+                "imd.png"
+            ],
+            "caption": "Images of our Applications",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Campus Map Summary",
+                    "url": "https://drive.google.com/file/d/1m7irrp5UN68AZpHyymCD6XvuMPnsBAib/view?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "", 
+            "body": "",
+            "url": "",
+            "modalTitle": "Introspection",
+            "modalBody": "This is perhaps one of my favorite quotes and is also something which has been frequently reinforced by IDEAS. Many of our assignments were based on open perspectives and introspection, and I am a firm believer that considering multiple perspectives and being willing to change your own are key traits as a designer and individual.",
+            "hasModal": true,
+            "showLinks": false,
+            "links": [],
+            "isQuote": true,
+            "quoteBody": "We can’t change the world unless we change ourselves.",
+            "quoteAuthor": "Biggie Smalls"
+        },
+        {
+            "title": "RESEARCH", 
+            "subtitle": "Relay Node Placement - My First Independent Research Experience",
+            "body": "After having worked with Dr. Han for my research project during fall semester, I was given an opportunity to continue researching. This time I would be researching on my own, however, as opposed to working underneath a graduate student. I had already developed quite an interest in wireless sensor systems, so I expressed this interest when we were discussing my next project. Dr. Han had a sabbatical planned in Italy to work on smart cities, so we thought that we might integrate my interests in wireless sensor networks with smart buildings and ways to improve them. From this, I began to identify some possible research questions, and one regarding relay node placement particularly struck me for its possible use in a practical environment. I began developing my sensors and microcontrollers for experimentation, and at the same time starting researching a new algorithm for relay node placement. My research is not fully completed, but you may see my in-progress research poster at the link below or at the recently launched Virtual Undergraduate Research Symposium.",
+            "url": [
+                "research2.jpg",
+                "research1.jpg"
+            ],
+            "caption": "Since Moving Online, All Tests are Now Performed in my Basement",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Research Poster",
+                    "url": "https://drive.google.com/file/d/1CAee1rK7almjrJ_q1Y-YUJQlWoL9GRnf/view?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "SolidWorks and Sketchup",
+            "body": "Over the past few years, I have had the opportunity to use CAD frequently for my job, school, and other personal projects. I had primarily used AutoCAD and Fusion360 in the past, though I decided to take the sketchup pretest as the controls were quite familiar to me. I passed the test and spent a few weeks on the Solidworks unit accordingly. Solidworks was a fantastic program, though it had a decent learning curve. After having spent some time with the program, we were given an assignment to model a chess board. I did some thumbnail sketches of what I wanted my pieces to look like, and after arriving on a design I enjoyed, I 3D modelled a set of chess pieces and two different chess boards (one plain and one with terrain). After switching back over to sketchup, we continued to model and generate ideas for our Module 4 design. This actually proved extremely useful to me and ended up being integrated with the final M4 design. You may see images of my M4 designs, other sketchup designs, and can view and download my chess set at the links below.",
+            "url": [
+                "chess.png",
+                "sketchup.jpg"
+            ],
+            "caption": "3D Models from Solidworks and Sketchup",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name": "Sketchup Models",
+                    "url": "https://drive.google.com/drive/folders/1vwCPQv0rWiMO6ZVaQtbFblVVMiZvq_8R?usp=sharing"
+                },
+                {
+                    "name": "Chess Set Models",
+                    "url": "https://drive.google.com/drive/folders/1nU601Q6G2aXV5ngxD_HTM7rlzqsg2O40?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "", 
+            "body": "",
+            "url": "",
+            "modalTitle": "Embracing Challenges",
+            "modalBody": "Being willing to confront big challenges with an open mind is an important skill for any individual. This has been especially true in IDEAS, as many of the problems tackled in this class take immense effort and thinking to even begin to understand.",
+            "hasModal": true,
+            "showLinks": false,
+            "links": [],
+            "isQuote": true,
+            "quoteBody": "Stay far from timid, only make moves when your heart’s in it, and live the phrase ‘sky’s the limit.",
+            "quoteAuthor": "Biggie Smalls"
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "Photography",
+            "body": "Over the course of the year, I became quite interested in photography in part because of the radiant beauty of Golden but also because it is quite a relaxing pastime. I actually began by taking pictures in RiNo when I noticed how beautiful the sunset was that evening but have continued to extend the idea, taking photos whenever I have the ability to. At the conclusion of this tour, you will enter a photo gallery which displays some of my favorite photos I took throughout the year.",
+            "url": [
+                "photo1.jpeg",
+                "photo2.jpeg"
+            ],
+            "caption": "Some of my Favorite Photographs",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "IDEAS Mind Map",
+            "body": "As detailed in the final portfolio prompt, we were instructed to create a visual or abstract representation of our experience in IDEAS this year. As some instructors may know, mind maps were one of the greatest concepts I took away from this class, and I tend to use them heavily. I find that they provide a visual representation of my process of thinking, and they often inspire me to come up with new and creative ideas. Accordingly, I thought it would be fitting to create one for my final portfolio! This mind map, being more of a visual spectacle than anything else, depicts the modules and what I took out of each one throughout my time in IDEAS. Of course, there are many interconnected components of the mind map, as certain ideas were reinforced throughout many modules. It is probably the most complex mind map I have created thus far, but I know it won’t be my last use of one!",
+            "url": [
+                "photo1.jpeg"
+            ],
+            "caption": "The Mind Map (Use the Link for a Closer Look)",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name":"Mind Map",
+                    "url": "https://drive.google.com/file/d/1ojSnhcqObcyicWD30p24M1FxtnCedxRz/view?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "", 
+            "body": "",
+            "url": "",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [],
+            "isQuote": true,
+            "quoteBody": "The time is always right to do what is right.",
+            "quoteAuthor": "Martin Luther King Jr."
+        },
+        {
+            "title": "REFLECTION", 
+            "subtitle": "Module 5: Biomimicry",
+            "body": "A fantastic way to end the year and very fitting considering the gorgeous weather we’ve been having in Colorado the past few weeks, module 5 was a new and unique exploration. I have never had any schooling or education in the area of biomimicry, and though I knew it existed, I had never used it in my own thinking or design. That is about to change though--I find the concept fascinating! Considering that natural phenomena have had millions if not billions of years to evolve and fit their purposes, finding ways to integrate them into design can truly make these designs more efficient and effective. In fact, it is in many ways surprising that the term did not become commonplace until recently, as it seems like a fairly obvious way to make designs more efficient, not to mention more aesthetically pleasing. I am glad that I had the opportunity to learn about such a concept in this class, as I find it unlikely that I would have had the chance in any other course. In my nature journal, I focused heavily on sketching plants like trees and flowers. I find these natural structures particularly unique because of their intrinsic connections to mathematics--specifically the fibonacci sequence--making them both beautiful and efficient organisms. Of course, I had to try coming up with some of my own naturally inspired mathematical experiments--so I tried creating various computer algorithms to generate structures based on fractals and the fibonacci sequence. I am happy with the way they turned out, and it is startling how similar they look to real natural structures. I did two of these designs in 2D, one using a structured mathematical algorithm and the other factoring in random numbers. Then, I did one 3D animation of a large fractal. It can be so easy to look right past a tree, missing the significance and complexity of its structure when there is perhaps much to learn from it! You can see a copy of my nature journal and my designs at the links below.",
+            "url": [
+                "mountain.png",
+                "fractal4.png"
+            ],
+            "caption": "A Drawing from My Nature Journal and Fractal Art",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name":"Nature Journal",
+                    "url": "https://drive.google.com/file/d/1_LyGkX4-NmkyYbulo64qU8Yw20soPHeb/view?usp=sharing"
+                },
+                {
+                    "name":"2D Fractal Art",
+                    "url": "https://drive.google.com/drive/folders/1fc7TcvlJ-yx6jrPd-C5NWmnyVB-88Oc-?usp=sharing"
+                },
+                {
+                    "name":"3D Fractal Animation",
+                    "url": "https://www.youtube.com/watch?v=DrLmzpYgH40"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        
+        {
+            "title": "PROJECT", 
+            "subtitle": "IDEAS Journal",
+            "body": "My IJ has seen much use over this year in IDEAS. Though I have done primarily writing in it, I have become more comfortable with putting sketches in it as well. I am excited to have this journal as a resource to me, as I have compiled a number of ideas, notes, and lessons which I hope to pull from throughout the future. Some of my favorite drawings came from early in the year during module 1 and our experience in RiNo, while others came from biomimicry in module 5. I have compiled a few different drawings from my IJ which I personally enjoy; they are available for viewing at the link below.",
+            "url": [
+                "drawing1.jpeg",
+                "drawing2.jpeg"
+            ],
+            "caption": "Drawings from My IJ",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name":"Selected Drawings",
+                    "url": "https://drive.google.com/drive/folders/13dioRx12OJU-ublw9C7-PrNAFojCubor?usp=sharing"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "PROJECT", 
+            "subtitle": "This Website",
+            "body": "Out of all the projects and research that I have partaken in this year, this website is perhaps the most ambitious. I stepped out of my comfort zone and explored new concepts in web development and design that I wouldn’t touch earlier this year. I sincerely hope that it has turned out to be an exemplary piece of my work, but more importantly, it proved to be a tremendous learning experience for me, both in terms of thinking creatively, designing effectively, and learning new and unique skills. If you would like to learn more about the development framework and inner workings of this site, please see the code and information at the link below. Best of all--its hosted online for free!",
+            "url": [
+                "code.jpg"
+            ],
+            "caption": "Creating this Website",
+            "modalTitle": "",
+            "modalBody": "",
+            "hasModal": false,
+            "showLinks": false,
+            "links": [
+                {
+                    "name":"Code",
+                    "url": "https://google.com"
+                }
+            ],
+            "isQuote": false,
+            "quoteBody": "",
+            "quoteAuthor": ""
+        },
+        {
+            "title": "", 
+            "body": "",
+            "url": "",
+            "modalTitle": "Inspiring Journey",
+            "modalBody": "The journey I have experienced in IDEAS and this year does not end here. I believe it continues to live on and compound to make the future journey even richer and more fulfilling.",
+            "hasModal": true,
+            "showLinks": false,
+            "links": [],
+            "isQuote": true,
+            "quoteBody": "Wouldn't take nothing for my journey now.",
+            "quoteAuthor": "Maya Angelou"
+        }
+
+
+
+    ]
+}
