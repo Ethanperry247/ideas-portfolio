@@ -1,24 +1,6 @@
 # final-portfolio
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This website portfolio was created for my final project of the Thorson Honors Program. It is built using the vuejs framework. 
+The site may be viewed at this link: https://ethanperry247.github.io/portfolio/#/project/
